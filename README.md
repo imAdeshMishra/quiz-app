@@ -23,9 +23,6 @@ To get started with our app, follow these steps:
 
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
