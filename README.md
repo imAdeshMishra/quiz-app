@@ -24,10 +24,6 @@ To get started with our app, follow these steps:
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, feel free to open an issue or create a pull request.
 
 
-## Screenshots
-
-[Insert screenshots or links to screenshots here]
-
 ## Feedback
 
 We'd love to hear your feedback! If you have any questions, comments, or concerns, please don't hesitate to reach out.
